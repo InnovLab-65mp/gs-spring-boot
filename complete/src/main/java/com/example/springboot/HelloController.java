@@ -8,7 +8,7 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "Greetings from Spring Boot based Web App stored in github deployed on Azure through Github Actions!! - AA ";
+		return "Greetings from Spring Boot based Web App stored in github deployed on Azure through Github Actions!! - AA Rama";
 	}
 
 }
